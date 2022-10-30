@@ -28692,3 +28692,1406 @@ Make sure 'cam_C' has been compiled for  Set Money
 [2022.10.30-08.58.14:694][696]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
 [2022.10.30-08.58.15:195][696]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
 [2022.10.30-08.58.15:433][697]LogPlayLevel: Display: Destroying online subsystem :Context_210
+[2022.10.30-08.59.31:936][865]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-08.59.31:942][865]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-08.59.46:174][131]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.46:284][140]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.46:468][154]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.46:695][172]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.47:129][205]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.47:247][214]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.47:460][232]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.47:551][239]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.47:722][252]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.47:890][266]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.48:007][275]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.48:178][288]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.48:285][296]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.48:543][317]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.49:122][366]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.49:221][374]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.49:388][388]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.49:760][419]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.49:957][435]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.50:883][514]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.51:521][568]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.51:870][597]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.52:627][661]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.53:068][699]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.53:367][724]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.55:136][880]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.55:202][886]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.55:439][903]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.56:016][917]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.56:745][979]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.56:831][986]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.57:338][ 28]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-08.59.58:390][115]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.01:162][352]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.30-09.00.01:167][352]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.00.01:669][352]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.00.01:671][352]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.00.02:172][352]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.00.02:175][352]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.00.02:676][352]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.00.02:705][352]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.30-09.00.02:705][352]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.30-09.00.02:705][352]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.00.02:705][352]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.30-09.00.02:706][352]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.30-09.00.02:706][352]LogWorldPartition: Display: GetPartitionedActors took 320 us
+[2022.10.30-09.00.02:709][352]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2022.10.30-09.00.02:709][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.30-09.00.02:709][352]PIE: New page: PIE session: TopDownMap (30 oct. 2022 à 11:00:02)
+[2022.10.30-09.00.02:710][352]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.00.02:761][352]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.30-09.00.02:761][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050946s)
+[2022.10.30-09.00.02:761][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.051187s)
+[2022.10.30-09.00.02:761][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.30-09.00.02:762][352]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.30-09.00.02:762][352]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.30-09.00.02:762][352]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.30-09.00.02:767][352]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2022.10.30-09.00.02:767][352]LogPlayLevel: PIE: World Init took: (0.006918s)
+[2022.10.30-09.00.02:797][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.30-09.00.02:803][352]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.30-09.00.02:803][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.30-09.00.02:803][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.30-09.00.02:804][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.30-09.00.02:804][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.30-09.00.02:804][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.30-09.00.02:806][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.30-09.00.02:826][352]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.30-09.00.02:827][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.30-09.00.02:827][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.30-09.00.02:827][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.30-09.00.02:827][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2022.10.30-09.00.02:827][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2022.10.30-09.00.02:829][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2022.10.30-09.00.02:829][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2022.10.30-09.00.02:829][352]LogInit: FAudioDevice initialized.
+[2022.10.30-09.00.02:829][352]LogAudio: Display: Audio Device (ID: 81) registered with world 'TopDownMap'.
+[2022.10.30-09.00.02:883][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.00.02:883][352]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.30-09.00.03:033][352]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.30-10.00.03
+[2022.10.30-09.00.03:089][352]LogWorld: Bringing up level for play took: 0.205872
+[2022.10.30-09.00.03:091][352]LogOnline: OSS: Created online subsystem instance for: :Context_211
+[2022.10.30-09.00.03:092][352]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=2611.331 Y=12504.020 Z=1063.463
+[2022.10.30-09.00.03:092][352]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.00.03:094][352]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.30-09.00.03:094][352]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.30-09.00.03:096][352]PIE: Server logged in
+[2022.10.30-09.00.03:097][352]PIE: Play in editor total start time 0,411 seconds.
+[2022.10.30-09.00.03:099][352]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.00.03:099][352]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.00.03:099][352]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.00.03:099][352]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.00.03:780][390]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.30-09.00.04:776][468]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] I can move but...
+[2022.10.30-09.00.05:778][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] I can move but...
+[2022.10.30-09.00.05:779][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] I can move but...
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.30-09.00.05:780][545]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] I can move but...
+[2022.10.30-09.00.06:774][619]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.30-09.00.07:220][653]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.30-09.00.07:782][694]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.00.07:782][694]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.30-09.00.08:231][729]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.30-09.00.08:362][739]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.30-09.00.08:744][768]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.30-09.00.08:783][771]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 30
+[2022.10.30-09.00.09:079][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.00.09:245][807]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.30-09.00.09:774][848]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 35
+[2022.10.30-09.00.10:430][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.00.10:781][928]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 40
+[2022.10.30-09.00.10:781][928]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] PassageDuCode
+[2022.10.30-09.00.10:781][928]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] I can move but...
+[2022.10.30-09.00.11:780][  6]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 45
+[2022.10.30-09.00.12:269][ 46]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.30-09.00.12:269][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.00.12:454][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.00.12:454][ 58]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.00.12:455][ 58]LogSlate: Window 'UEjam17 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.30-09.00.12:472][ 58]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.30-09.00.12:477][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.00.12:491][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.30-09.00.12:500][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.00.12:537][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2022.10.30-09.00.12:539][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2022.10.30-09.00.12:562][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.30-09.00.12:580][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.00.13:081][ 58]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.00.13:082][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.00.13:583][ 58]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.00.13:584][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.00.14:086][ 58]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.00.14:317][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_211
+[2022.10.30-09.00.15:439][148]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-09.00.15:444][148]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-09.00.20:879][589]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.21:373][607]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.21:798][640]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.22:087][662]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.22:566][700]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.23:124][743]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.24:021][815]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.24:565][854]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.24:757][867]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:198][143]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:219][145]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:241][147]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:262][149]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:303][153]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:337][156]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:358][158]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:379][160]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:475][169]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:496][171]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.39:992][218]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:024][221]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:047][223]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:090][227]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:132][231]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:153][233]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:280][245]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.40:623][273]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:252][518]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:305][523]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:390][531]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:473][539]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:621][553]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:675][558]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.43:749][565]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.44:330][600]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.46:835][767]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.47:307][808]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.52:818][308]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.52:861][312]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.52:880][314]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.53:074][330]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.53:694][343]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.55:611][516]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.55:673][522]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.55:714][526]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.55:788][533]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.56:171][570]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.56:274][580]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.56:536][601]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.58:251][762]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.58:336][770]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.58:355][772]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.58:439][780]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.00.58:958][826]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.04:503][352]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.04:555][357]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.04:837][380]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.05:660][460]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.05:700][464]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.06:191][511]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.06:705][560]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.06:734][563]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.06:862][571]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.07:466][630]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.07:488][632]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.07:529][636]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.07:905][672]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.07:947][676]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.07:989][680]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.08:208][697]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:260][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:281][ 84]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:323][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:551][110]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:591][114]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:759][130]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:855][139]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:877][141]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:899][143]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.12:920][145]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.13:374][173]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.13:681][178]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.13:905][194]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.13:951][198]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.14:008][203]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.14:078][209]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.14:322][231]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.14:344][233]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.14:681][260]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.18:671][610]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.19:108][651]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.19:672][705]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.20:133][745]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.20:812][811]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.20:843][814]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.21:023][831]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.21:139][842]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.21:645][886]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.31:878][842]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.31:899][844]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.31:959][850]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.32:021][856]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.32:073][861]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.32:460][899]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.32:642][912]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.33:923][ 28]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.33:944][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.33:972][ 33]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:024][ 38]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:046][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:067][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:086][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:138][ 49]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:342][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:373][ 72]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:527][ 87]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.34:683][ 98]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:126][233]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:190][239]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:357][255]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:375][257]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:517][271]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:588][278]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.36:835][298]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:545][459]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:627][467]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:729][477]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:872][491]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:914][495]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:935][497]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:956][499]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.38:986][502]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.39:184][517]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:174][799]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:204][802]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:235][805]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:307][812]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:398][821]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:471][828]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:542][835]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:727][853]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:749][855]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.42:939][869]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.44:820][ 46]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.44:873][ 51]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.44:926][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.45:339][ 91]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.50:562][556]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.50:625][562]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.50:685][568]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.50:706][570]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.50:874][586]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.51:332][604]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.51:600][610]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.52:145][659]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.52:297][673]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.52:415][683]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.52:483][689]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.52:776][713]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.56:165][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.56:249][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.56:270][ 36]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.56:291][ 38]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.56:335][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.56:682][ 71]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.59:257][300]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.01.59:657][335]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.04:980][815]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.05:023][819]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.05:579][872]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.05:622][876]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.05:931][901]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.08:021][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.08:336][ 99]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.08:603][105]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.08:792][121]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.08:865][127]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.09:086][146]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.09:289][163]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.10:209][243]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.10:232][245]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.10:268][248]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.10:720][284]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.17:063][846]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.17:621][899]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.18:113][943]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.22:296][323]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.22:712][331]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.22:787][338]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:108][367]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:153][371]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:243][379]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:336][387]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:358][389]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:403][393]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:533][405]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:590][410]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:868][434]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.23:937][440]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.24:058][451]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.24:081][453]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.24:115][456]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.24:171][461]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.24:204][464]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.25:053][539]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.25:074][541]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.25:247][557]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.25:560][582]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.26:052][622]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:112][174]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:150][178]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:270][190]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:290][192]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:444][207]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:465][209]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.32:791][225]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.33:307][242]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.38:219][679]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.38:262][683]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.38:760][726]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.44:762][271]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.44:929][287]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:085][299]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:353][304]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:683][311]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:703][313]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:749][317]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:796][321]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.45:875][328]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.46:444][375]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:679][486]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:710][489]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:742][492]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:762][494]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:817][499]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:840][501]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:884][505]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.47:928][509]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.48:004][516]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.48:299][539]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.53:261][974]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.53:326][980]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.54:210][ 59]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.55:587][188]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.55:608][190]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.55:662][195]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.55:716][200]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.55:769][205]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.56:100][232]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.57:073][325]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.57:177][335]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.57:823][395]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.57:843][397]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.58:217][428]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.58:553][461]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.58:595][465]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.58:616][467]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.58:659][471]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.02.58:965][496]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.07:520][285]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.07:564][289]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.07:623][295]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.07:737][306]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.07:788][311]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.08:484][374]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.08:997][424]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.09:219][445]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.09:239][447]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.09:856][506]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.10:256][540]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.12:954][781]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.13:006][786]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.13:077][793]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.13:612][845]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.13:642][848]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.13:696][853]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.13:728][856]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.14:151][896]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.14:434][919]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.19:719][399]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.19:803][407]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.19:824][409]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.19:843][411]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.20:213][447]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.20:448][470]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.21:070][526]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.21:757][593]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.21:789][596]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.21:830][600]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.21:862][603]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.21:904][607]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.22:059][622]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.22:143][626]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.22:634][674]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.22:655][676]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.22:732][683]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.22:815][691]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.23:200][724]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.24:674][859]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.25:103][866]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.25:145][868]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.25:456][894]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.25:549][899]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.42:630][401]LogWorldPartition: Warning: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Collision_C_UAID_186024ADA711D24401_1913865003 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/8Q/7NKNAHDJH8OLMT0WKN13B5.PackageMetaData in its package
+[2022.10.30-09.03.42:640][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.30-09.03.42:682][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.30-09.03.42:715][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.30-09.03.42:718][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/F/1S/WJB3DSHS4Y5806E6V1X45M
+[2022.10.30-09.03.42:718][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/WJB3DSHS4Y5806E6V1X45MD1828A64457F8A1F6BD7A0B2AEB91ACC.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/F/1S/WJB3DSHS4Y5806E6V1X45M.uasset'
+[2022.10.30-09.03.42:720][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K
+[2022.10.30-09.03.42:721][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/NUZXFL0Y0VYI817ZTIWQ7K06194BCE48E044583B747FA5103C4CCD.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K.uasset'
+[2022.10.30-09.03.42:723][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/K9/OLUWY0CLL8RCC96TA6T83Z
+[2022.10.30-09.03.42:724][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/OLUWY0CLL8RCC96TA6T83Z3EEF393C49547E9DA06ABEA4D7509549.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/K9/OLUWY0CLL8RCC96TA6T83Z.uasset'
+[2022.10.30-09.03.42:726][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZV/ODK47VPL5V0MCSMYVI84N0
+[2022.10.30-09.03.42:726][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/ODK47VPL5V0MCSMYVI84N0EE3C2007457EA9910CD062B074FE2FFD.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/ZV/ODK47VPL5V0MCSMYVI84N0.uasset'
+[2022.10.30-09.03.42:729][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/CV/3FCSPUUJKG12MOA0AXH2ZM
+[2022.10.30-09.03.42:730][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/3FCSPUUJKG12MOA0AXH2ZM27A58E534DAD2938F22C30B4D747C46D.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/CV/3FCSPUUJKG12MOA0AXH2ZM.uasset'
+[2022.10.30-09.03.42:732][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P7/XSM3SO1QFGCTI8JC7EYXI8
+[2022.10.30-09.03.42:732][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/XSM3SO1QFGCTI8JC7EYXI85E0888D24985883A28D6C8B89843F531.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/P7/XSM3SO1QFGCTI8JC7EYXI8.uasset'
+[2022.10.30-09.03.42:735][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/0S/J01EJIHGAIWIMN2BD1EYQI
+[2022.10.30-09.03.42:735][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/J01EJIHGAIWIMN2BD1EYQI73C9521A4F67A4CE97D979A274396A2D.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/0S/J01EJIHGAIWIMN2BD1EYQI.uasset'
+[2022.10.30-09.03.42:737][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/R2/YY1G2A1S4A2HS2PV87LPOZ
+[2022.10.30-09.03.42:737][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/YY1G2A1S4A2HS2PV87LPOZ9BA0B7F44A44F3BB89B200AEDF1D47B6.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/R2/YY1G2A1S4A2HS2PV87LPOZ.uasset'
+[2022.10.30-09.03.42:740][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/LG/KVM4KZTLQPOSGICPQC8TX4
+[2022.10.30-09.03.42:740][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/KVM4KZTLQPOSGICPQC8TX4E44C07D34CEC6E8C6C9D9488ACCDA572.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/LG/KVM4KZTLQPOSGICPQC8TX4.uasset'
+[2022.10.30-09.03.42:742][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/10/5RTJ86T46S979K20JTZS3W
+[2022.10.30-09.03.42:742][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/5RTJ86T46S979K20JTZS3WF0AF8B1249932F8A92A6649D8E8F1EF5.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/10/5RTJ86T46S979K20JTZS3W.uasset'
+[2022.10.30-09.03.42:746][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/QH/VFM13CX65BIHHK7CZJOYW1
+[2022.10.30-09.03.42:746][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/VFM13CX65BIHHK7CZJOYW152085B794A6BF1A71AC77D9E3313D2F6.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/QH/VFM13CX65BIHHK7CZJOYW1.uasset'
+[2022.10.30-09.03.42:748][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/K8/XCSDOXQQ8U2WKA68XCQ95G
+[2022.10.30-09.03.42:748][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/XCSDOXQQ8U2WKA68XCQ95GFDB63FE04197AB48258F5493F6CB4FFE.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/K8/XCSDOXQQ8U2WKA68XCQ95G.uasset'
+[2022.10.30-09.03.42:751][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/WO/VGK7CBCI3W71ORIU76O4YV
+[2022.10.30-09.03.42:751][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/VGK7CBCI3W71ORIU76O4YV1D252D4A4073CD84FD35ED824302DD17.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/WO/VGK7CBCI3W71ORIU76O4YV.uasset'
+[2022.10.30-09.03.42:754][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/Z9/S9EEREF3L9RJWY1RS4WWZQ
+[2022.10.30-09.03.42:754][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/S9EEREF3L9RJWY1RS4WWZQ801685A5408D7438B49DA48C54B1BED1.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/Z9/S9EEREF3L9RJWY1RS4WWZQ.uasset'
+[2022.10.30-09.03.42:757][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DB/P9MMRDKIYHPVKMV3AVG84C
+[2022.10.30-09.03.42:757][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/P9MMRDKIYHPVKMV3AVG84C913130634B18925549BA628D47C998BC.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/DB/P9MMRDKIYHPVKMV3AVG84C.uasset'
+[2022.10.30-09.03.42:760][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/V2/HH1WNMP6OW38AIC1C39ZLV
+[2022.10.30-09.03.42:760][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/HH1WNMP6OW38AIC1C39ZLV8A5D4E604CB292A9C73529938EAA889F.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/V2/HH1WNMP6OW38AIC1C39ZLV.uasset'
+[2022.10.30-09.03.42:763][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/8L/GRE8MCVXXOMZKWG9I8Z7XF
+[2022.10.30-09.03.42:763][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/GRE8MCVXXOMZKWG9I8Z7XF52687C504F0BA1EC4D70958EBDFC1C34.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/8L/GRE8MCVXXOMZKWG9I8Z7XF.uasset'
+[2022.10.30-09.03.42:768][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/0W/12GW8DF1B1MU21OS6XDPGS
+[2022.10.30-09.03.42:768][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/12GW8DF1B1MU21OS6XDPGS7F25912F42ACBF581933068F2444DE98.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/0W/12GW8DF1B1MU21OS6XDPGS.uasset'
+[2022.10.30-09.03.42:771][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/46/6HDVZV9T78MZ809RCV9YQZ
+[2022.10.30-09.03.42:771][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/6HDVZV9T78MZ809RCV9YQZ5D4E5149422606949AEC89AE5F730CB1.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/46/6HDVZV9T78MZ809RCV9YQZ.uasset'
+[2022.10.30-09.03.42:773][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/93/OMK893KQZSCI4LOP1258UG
+[2022.10.30-09.03.42:774][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/OMK893KQZSCI4LOP1258UG8E36B9844C4D95AC99728E9405C638DD.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/93/OMK893KQZSCI4LOP1258UG.uasset'
+[2022.10.30-09.03.42:776][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/HF/GPSB8EB4329UUYNBVC7DT9
+[2022.10.30-09.03.42:777][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/GPSB8EB4329UUYNBVC7DT95331336B4FA062A1FEFE3BBA7BCFA62E.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/HF/GPSB8EB4329UUYNBVC7DT9.uasset'
+[2022.10.30-09.03.42:778][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/IW/3XR11XC18E9YRA4LB5QJHF
+[2022.10.30-09.03.42:778][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/3XR11XC18E9YRA4LB5QJHF4D8BB76F40858CA613E1DDABA2CB5CB2.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/IW/3XR11XC18E9YRA4LB5QJHF.uasset'
+[2022.10.30-09.03.42:781][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/B1/D29PDZ53ZAHNKWU2WY67TY
+[2022.10.30-09.03.42:781][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/D29PDZ53ZAHNKWU2WY67TY5F1F207C45329BD506E0B18DA48726EB.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/B1/D29PDZ53ZAHNKWU2WY67TY.uasset'
+[2022.10.30-09.03.42:783][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/SQ/4UMCTMNSK7SAJYIK78L166
+[2022.10.30-09.03.42:783][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/4UMCTMNSK7SAJYIK78L166AF0CF7564DAB3D2E6137A5B026E46566.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/SQ/4UMCTMNSK7SAJYIK78L166.uasset'
+[2022.10.30-09.03.42:786][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/72/43IWTYCVNQFQ84MXZJOQ0N
+[2022.10.30-09.03.42:786][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/43IWTYCVNQFQ84MXZJOQ0ND651352149551CA7C5E22480B44983FF.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/72/43IWTYCVNQFQ84MXZJOQ0N.uasset'
+[2022.10.30-09.03.42:789][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/VZ/X5PNOMNRFTDLYD05WQ1NPM
+[2022.10.30-09.03.42:789][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/X5PNOMNRFTDLYD05WQ1NPME5717AEB4CE3D2391F2ABE88CAEBBEC5.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/VZ/X5PNOMNRFTDLYD05WQ1NPM.uasset'
+[2022.10.30-09.03.42:792][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/X9/LJ5T2DAFBXS7PK1WQI56ET
+[2022.10.30-09.03.42:792][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/LJ5T2DAFBXS7PK1WQI56ET4DAE2F3E47CF5197390A65B910B83B40.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/X9/LJ5T2DAFBXS7PK1WQI56ET.uasset'
+[2022.10.30-09.03.42:794][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/L5/05GEMTRXQLNDIRGDIJSSWH
+[2022.10.30-09.03.42:794][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/05GEMTRXQLNDIRGDIJSSWHA8115CBE4F1BA35556CBC0AE7905D29C.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/L5/05GEMTRXQLNDIRGDIJSSWH.uasset'
+[2022.10.30-09.03.42:797][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/3Z/IHBA4I05KTJOO9TSMZINTB
+[2022.10.30-09.03.42:797][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/IHBA4I05KTJOO9TSMZINTB6E19FE604364D46D1639EDBB69055E04.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/3Z/IHBA4I05KTJOO9TSMZINTB.uasset'
+[2022.10.30-09.03.42:799][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/C2/4HMQYNRBHPQB10CV72LV4G
+[2022.10.30-09.03.42:799][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/4HMQYNRBHPQB10CV72LV4G41F465DD4B1835784A15119E3B72CB9E.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/C2/4HMQYNRBHPQB10CV72LV4G.uasset'
+[2022.10.30-09.03.42:801][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/V5/ZEBPY2PS2KP2KHX1K75ZD4
+[2022.10.30-09.03.42:801][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/ZEBPY2PS2KP2KHX1K75ZD42736DA2E4AD2238014420DB949383D02.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/V5/ZEBPY2PS2KP2KHX1K75ZD4.uasset'
+[2022.10.30-09.03.42:803][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/PT/RGBOFFK0X14TVK5SSDT9N0
+[2022.10.30-09.03.42:803][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/RGBOFFK0X14TVK5SSDT9N03281F9E9439CAE89E3825B921854D972.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/PT/RGBOFFK0X14TVK5SSDT9N0.uasset'
+[2022.10.30-09.03.42:806][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/Y5/2156MEK27SU9ST0AJLJTIG
+[2022.10.30-09.03.42:806][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/2156MEK27SU9ST0AJLJTIGE6BD398947751CAAE41C799481271E64.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/Y5/2156MEK27SU9ST0AJLJTIG.uasset'
+[2022.10.30-09.03.42:808][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/O4/YF1K54ZUKGR8JVK8NJFHCZ
+[2022.10.30-09.03.42:808][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/YF1K54ZUKGR8JVK8NJFHCZ494696754D4DF4430706BE9D58337DF5.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/O4/YF1K54ZUKGR8JVK8NJFHCZ.uasset'
+[2022.10.30-09.03.42:811][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/52/6Q3YPHWTAUU7ASQX9VZ0MT
+[2022.10.30-09.03.42:811][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/6Q3YPHWTAUU7ASQX9VZ0MT432F361841995A9AA91E19AB985A8F65.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/52/6Q3YPHWTAUU7ASQX9VZ0MT.uasset'
+[2022.10.30-09.03.42:813][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/YR/VPSF57A6W17BZYETRO79RH
+[2022.10.30-09.03.42:813][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/VPSF57A6W17BZYETRO79RH101C90FA4A84F6EB0DB0DA977625EDF8.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/YR/VPSF57A6W17BZYETRO79RH.uasset'
+[2022.10.30-09.03.42:816][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/HR/RPGXT2KZCH8PSWIPRMXXNP
+[2022.10.30-09.03.42:816][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/RPGXT2KZCH8PSWIPRMXXNP717588C4441EC99A0F95E7BB43AD395B.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/HR/RPGXT2KZCH8PSWIPRMXXNP.uasset'
+[2022.10.30-09.03.42:817][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/FB/BK05TRHWUH7MLYCZI20P5L
+[2022.10.30-09.03.42:818][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/BK05TRHWUH7MLYCZI20P5L18C7F4D74868FA11435AF09137CDAE54.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/FB/BK05TRHWUH7MLYCZI20P5L.uasset'
+[2022.10.30-09.03.42:820][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/RG/J0P51M5HRBK278ON523BWO
+[2022.10.30-09.03.42:820][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/J0P51M5HRBK278ON523BWO494E0A98430AB98B6D37C28EEA0149C8.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/RG/J0P51M5HRBK278ON523BWO.uasset'
+[2022.10.30-09.03.42:822][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/KB/XBJGCU5XMPDRTWUP0AFWB0
+[2022.10.30-09.03.42:822][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/XBJGCU5XMPDRTWUP0AFWB01FD560A643B2903C5BD2E5B4FF8503C7.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/KB/XBJGCU5XMPDRTWUP0AFWB0.uasset'
+[2022.10.30-09.03.42:825][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/J0/QJJ2VZOWJPWHOF5BMZ4F5B
+[2022.10.30-09.03.42:825][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/QJJ2VZOWJPWHOF5BMZ4F5B4ADB363941AAAE12558CF4B6FC4A17D6.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/J0/QJJ2VZOWJPWHOF5BMZ4F5B.uasset'
+[2022.10.30-09.03.42:827][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/N0/DTZLYPO9SHRO0MYP07XVKZ
+[2022.10.30-09.03.42:827][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/DTZLYPO9SHRO0MYP07XVKZ631A2A304C0F2053421379BB862AA978.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/N0/DTZLYPO9SHRO0MYP07XVKZ.uasset'
+[2022.10.30-09.03.42:830][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/GV/HUZQWXCU5O3V8ZNSF8CO39
+[2022.10.30-09.03.42:830][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/HUZQWXCU5O3V8ZNSF8CO39CDC1E1EB407C9F6EFEF96E8D19ACB0F1.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/GV/HUZQWXCU5O3V8ZNSF8CO39.uasset'
+[2022.10.30-09.03.42:832][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/CC/FQ06RZANNRUQWBUA1NGDF2
+[2022.10.30-09.03.42:832][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/FQ06RZANNRUQWBUA1NGDF2DD13CE2843EEFFA809E464A28DFB9D41.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/CC/FQ06RZANNRUQWBUA1NGDF2.uasset'
+[2022.10.30-09.03.42:834][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/FB/01DNM3N5ICDPO6E8MM7KWD
+[2022.10.30-09.03.42:834][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/01DNM3N5ICDPO6E8MM7KWD162C9EB2460F7EBFD5FFF6B6EC487203.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/FB/01DNM3N5ICDPO6E8MM7KWD.uasset'
+[2022.10.30-09.03.42:837][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/9A/Q5VMECW39M0P4W2OJTC2M2
+[2022.10.30-09.03.42:837][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Q5VMECW39M0P4W2OJTC2M22E7AEC73484393BC20A2149D05D04C09.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/9A/Q5VMECW39M0P4W2OJTC2M2.uasset'
+[2022.10.30-09.03.42:839][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/72/HH45U5IO0XVTHGF6IEBH2T
+[2022.10.30-09.03.42:839][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/HH45U5IO0XVTHGF6IEBH2T174B03F7429673601EE1A6876CAD6C4C.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/72/HH45U5IO0XVTHGF6IEBH2T.uasset'
+[2022.10.30-09.03.42:841][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/TX/ORGTEKDXU1JUVFG0P13ZWO
+[2022.10.30-09.03.42:841][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/ORGTEKDXU1JUVFG0P13ZWO0642C0B949949B21725016A6ACAB2A2F.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/TX/ORGTEKDXU1JUVFG0P13ZWO.uasset'
+[2022.10.30-09.03.42:843][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/D8/E6K8QQ5LPTR04S9NIGCMS3
+[2022.10.30-09.03.42:844][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/E6K8QQ5LPTR04S9NIGCMS319C6D35E4DBCF2B1B4B3B6B1B9E6C45D.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/D8/E6K8QQ5LPTR04S9NIGCMS3.uasset'
+[2022.10.30-09.03.42:845][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/C0/7BLA6XM9JNZX0J41ZMPTQY
+[2022.10.30-09.03.42:845][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/7BLA6XM9JNZX0J41ZMPTQYDEF941C349CE8A906DDF76834730415D.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/C0/7BLA6XM9JNZX0J41ZMPTQY.uasset'
+[2022.10.30-09.03.42:848][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/K4/WN7B59MV78MOUXDNZO59LG
+[2022.10.30-09.03.42:848][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/WN7B59MV78MOUXDNZO59LGEB1162D8432CAC659DC9489EC7BC3F45.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/K4/WN7B59MV78MOUXDNZO59LG.uasset'
+[2022.10.30-09.03.42:850][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/KT/0SEPPE7L9QC5023M1GL11M
+[2022.10.30-09.03.42:850][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/0SEPPE7L9QC5023M1GL11M47177CCC4182CB5C59BD0CBF6303C792.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/KT/0SEPPE7L9QC5023M1GL11M.uasset'
+[2022.10.30-09.03.42:853][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/L3/WLATR2OTD95AU7NU1OMF54
+[2022.10.30-09.03.42:853][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/WLATR2OTD95AU7NU1OMF54C996BC894CFCCFBE5E947DBDA41138F1.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/L3/WLATR2OTD95AU7NU1OMF54.uasset'
+[2022.10.30-09.03.42:855][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/SQ/1HNA6MA1EF69VDR3A7MTI0
+[2022.10.30-09.03.42:855][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/1HNA6MA1EF69VDR3A7MTI060CE491B461844BB40370AB538E51897.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/SQ/1HNA6MA1EF69VDR3A7MTI0.uasset'
+[2022.10.30-09.03.42:858][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/CQ/OSN5Q4YVTI650TLD00O9NE
+[2022.10.30-09.03.42:858][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/OSN5Q4YVTI650TLD00O9NE7718CCEC4B0414D70E8AE1A610CD4A6A.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/CQ/OSN5Q4YVTI650TLD00O9NE.uasset'
+[2022.10.30-09.03.42:860][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/EF/8H533OOY7OFGEXTP1OBHV0
+[2022.10.30-09.03.42:860][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/8H533OOY7OFGEXTP1OBHV05DA3C6914E68FB92E6E21C88743CADFE.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/EF/8H533OOY7OFGEXTP1OBHV0.uasset'
+[2022.10.30-09.03.42:862][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/DZ/HULHS3FD5KENXZD1ODHR0V
+[2022.10.30-09.03.42:862][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/HULHS3FD5KENXZD1ODHR0VB90716654FD34084CABF7CBC89CE961E.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/DZ/HULHS3FD5KENXZD1ODHR0V.uasset'
+[2022.10.30-09.03.42:864][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/4F/85JUQDYVJD0BO0CD4IUQQC
+[2022.10.30-09.03.42:864][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/85JUQDYVJD0BO0CD4IUQQCFEBD9A8941C493A1084CB28F931BCEED.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/4F/85JUQDYVJD0BO0CD4IUQQC.uasset'
+[2022.10.30-09.03.42:867][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/MP/DHAUT5DKBLI8JUI2UWECDV
+[2022.10.30-09.03.42:867][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/DHAUT5DKBLI8JUI2UWECDVE022EBA54E0C1CFB1ABFB4896C41703E.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/MP/DHAUT5DKBLI8JUI2UWECDV.uasset'
+[2022.10.30-09.03.42:869][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/84/W0UD4QC8SRBTK5MLG23DYW
+[2022.10.30-09.03.42:869][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/W0UD4QC8SRBTK5MLG23DYWB41DDD0D43FB98BACA717AA2DC3C5924.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/84/W0UD4QC8SRBTK5MLG23DYW.uasset'
+[2022.10.30-09.03.42:872][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/US/TEHQBX2SFR5DB2TX9ZORXQ
+[2022.10.30-09.03.42:872][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/TEHQBX2SFR5DB2TX9ZORXQ217E272E4B282B750BF933847346C3C7.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/US/TEHQBX2SFR5DB2TX9ZORXQ.uasset'
+[2022.10.30-09.03.42:874][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/R1/TF67248IGPSL6382OZIQNC
+[2022.10.30-09.03.42:874][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/TF67248IGPSL6382OZIQNC93963664490DAA280BF15B85286B5BD7.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/R1/TF67248IGPSL6382OZIQNC.uasset'
+[2022.10.30-09.03.42:877][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/MF/F4Q0P9YBAXR3F6UYP3AAXD
+[2022.10.30-09.03.42:877][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/F4Q0P9YBAXR3F6UYP3AAXD08B52E614D6375DEE3343086466FB9DB.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/MF/F4Q0P9YBAXR3F6UYP3AAXD.uasset'
+[2022.10.30-09.03.42:879][401]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W2/WP0PR59U59DMIDLUYB1BDG
+[2022.10.30-09.03.42:879][401]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/WP0PR59U59DMIDLUYB1BDG21E716A74CCE01644F4820AFBF35865D.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/W2/WP0PR59U59DMIDLUYB1BDG.uasset'
+[2022.10.30-09.03.42:930][401]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_UAID_186024ADA711BD4401_1828626243
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2042439825
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2038437824
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2027368823
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2023352822
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2014098821
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2010278820
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2008241819
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2005980818
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2004082817
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_2001669816
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating cam_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NewBlueprint1_C_UAID_186024AD2D64584401_1312858455
+[2022.10.30-09.03.42:930][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1989851815
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1977709814
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating Clickbox_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Clickbox_C_UAID_186024ADA711D04401_1090163589
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1968933813
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1962671812
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1946510811
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1944189810
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711B94401_1992043536
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1942208809
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1939175808
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711B94401_1678253529
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1925270807
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1914431806
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1878902805
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1871658804
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1867222803
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1865017802
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1862276801
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1852935799
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1847480798
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1843068797
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1838215796
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1833408795
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1827573794
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1824144793
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1819398792
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1816366791
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1812736790
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1807920789
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1802960788
+[2022.10.30-09.03.42:931][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1795794787
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1790685786
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1855949800
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1773559785
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1754416784
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1744308783
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1740744782
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1735981781
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1728498780
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1725136779
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1722273778
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1711954776
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1707573775
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1701749774
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_UAID_186024ADA711D14401_1189200772
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D04401_1905300590
+[2022.10.30-09.03.42:932][401]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_186024ADA711D14401_1675858773
+[2022.10.30-09.03.42:965][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.30-09.03.43:652][464]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.30-09.03.43:658][464]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.03.44:160][464]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.03.44:162][464]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.03.44:663][464]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.03.44:666][464]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.03.45:167][464]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.03.45:189][464]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.30-09.03.45:189][464]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.30-09.03.45:189][464]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.03.45:189][464]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.30-09.03.45:189][464]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.30-09.03.45:190][464]LogWorldPartition: Display: GetPartitionedActors took 321 us
+[2022.10.30-09.03.45:193][464]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2022.10.30-09.03.45:193][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.30-09.03.45:193][464]PIE: New page: PIE session: TopDownMap (30 oct. 2022 à 11:03:45)
+[2022.10.30-09.03.45:194][464]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.03.45:242][464]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.30-09.03.45:242][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048204s)
+[2022.10.30-09.03.45:242][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.048370s)
+[2022.10.30-09.03.45:243][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.30-09.03.45:243][464]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.30-09.03.45:243][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.30-09.03.45:243][464]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.30-09.03.45:249][464]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2022.10.30-09.03.45:249][464]LogPlayLevel: PIE: World Init took: (0.006869s)
+[2022.10.30-09.03.45:279][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.30-09.03.45:281][464]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.30-09.03.45:281][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.30-09.03.45:281][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.30-09.03.45:282][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.30-09.03.45:282][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.30-09.03.45:282][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.30-09.03.45:284][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.30-09.03.45:305][464]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.30-09.03.45:305][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.30-09.03.45:305][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.30-09.03.45:305][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.30-09.03.45:305][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2022.10.30-09.03.45:305][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2022.10.30-09.03.45:307][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2022.10.30-09.03.45:307][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2022.10.30-09.03.45:307][464]LogInit: FAudioDevice initialized.
+[2022.10.30-09.03.45:307][464]LogAudio: Display: Audio Device (ID: 82) registered with world 'TopDownMap'.
+[2022.10.30-09.03.45:349][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.03.45:349][464]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.30-09.03.45:497][464]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.30-10.03.45
+[2022.10.30-09.03.45:555][464]LogWorld: Bringing up level for play took: 0.206652
+[2022.10.30-09.03.45:558][464]LogOnline: OSS: Created online subsystem instance for: :Context_212
+[2022.10.30-09.03.45:559][464]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=2611.331 Y=12504.020 Z=1063.463
+[2022.10.30-09.03.45:559][464]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.03.45:561][464]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.30-09.03.45:561][464]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.30-09.03.45:562][464]PIE: Server logged in
+[2022.10.30-09.03.45:563][464]PIE: Play in editor total start time 0,386 seconds.
+[2022.10.30-09.03.45:565][464]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.03.45:565][464]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.03.45:565][464]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.03.45:565][464]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.03.46:242][503]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.30-09.03.47:251][581]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] I can move but...
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] I can move but...
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] I can move but...
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] I can move but...
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] I can move but...
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.30-09.03.48:244][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] I can move but...
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] PassageDuCode
+[2022.10.30-09.03.48:245][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] I can move but...
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.30-09.03.48:246][657]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] I can move but...
+[2022.10.30-09.03.49:243][735]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.30-09.03.50:249][813]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.30-09.03.50:253][813]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.03.50:302][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.03.50:302][815]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.03.50:303][815]LogSlate: Window 'UEjam17 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.30-09.03.50:321][815]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.30-09.03.50:329][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.03.50:345][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.30-09.03.50:353][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.03.50:390][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2022.10.30-09.03.50:392][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2022.10.30-09.03.50:416][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.30-09.03.50:433][815]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.03.50:933][815]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.03.50:935][815]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.03.51:437][815]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.03.51:438][815]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.03.51:939][815]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.03.52:000][816]LogPlayLevel: Display: Destroying online subsystem :Context_212
+[2022.10.30-09.03.56:368][199]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.57:682][326]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.03.59:193][472]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.00:492][597]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.01:699][713]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.01:753][718]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.03:353][870]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.05:633][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.06:253][145]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.06:487][167]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.08:789][386]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.10:208][521]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.11:530][643]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.14:672][936]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.30-09.04.14:678][936]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.04.15:179][936]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.04.15:181][936]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.04.15:682][936]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.04.15:684][936]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.04.16:185][936]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.04.16:206][936]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.30-09.04.16:206][936]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.30-09.04.16:206][936]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.04.16:206][936]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.30-09.04.16:206][936]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.30-09.04.16:206][936]LogWorldPartition: Display: GetPartitionedActors took 306 us
+[2022.10.30-09.04.16:209][936]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2022.10.30-09.04.16:210][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.30-09.04.16:210][936]PIE: New page: PIE session: TopDownMap (30 oct. 2022 à 11:04:16)
+[2022.10.30-09.04.16:210][936]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.04.16:265][936]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.30-09.04.16:265][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054987s)
+[2022.10.30-09.04.16:265][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.055161s)
+[2022.10.30-09.04.16:265][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.30-09.04.16:265][936]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.30-09.04.16:266][936]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.30-09.04.16:266][936]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.30-09.04.16:272][936]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2022.10.30-09.04.16:272][936]LogPlayLevel: PIE: World Init took: (0.007007s)
+[2022.10.30-09.04.16:302][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.30-09.04.16:307][936]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.30-09.04.16:307][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.30-09.04.16:307][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.30-09.04.16:307][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.30-09.04.16:308][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.30-09.04.16:308][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.30-09.04.16:309][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.30-09.04.16:330][936]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.30-09.04.16:330][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.30-09.04.16:330][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.30-09.04.16:330][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.30-09.04.16:331][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2022.10.30-09.04.16:331][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2022.10.30-09.04.16:333][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2022.10.30-09.04.16:333][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2022.10.30-09.04.16:333][936]LogInit: FAudioDevice initialized.
+[2022.10.30-09.04.16:333][936]LogAudio: Display: Audio Device (ID: 83) registered with world 'TopDownMap'.
+[2022.10.30-09.04.16:392][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.04.16:393][936]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.30-09.04.16:542][936]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.30-10.04.16
+[2022.10.30-09.04.16:601][936]LogWorld: Bringing up level for play took: 0.208319
+[2022.10.30-09.04.16:603][936]LogOnline: OSS: Created online subsystem instance for: :Context_213
+[2022.10.30-09.04.16:604][936]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=2611.331 Y=12504.020 Z=1063.463
+[2022.10.30-09.04.16:604][936]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.04.16:606][936]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.30-09.04.16:606][936]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.30-09.04.16:608][936]PIE: Server logged in
+[2022.10.30-09.04.16:610][936]PIE: Play in editor total start time 0,415 seconds.
+[2022.10.30-09.04.16:612][936]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.16:612][936]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.16:612][936]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.16:612][936]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.17:292][975]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.30-09.04.18:287][ 52]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] I can move but...
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.30-09.04.19:287][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] I can move but...
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.30-09.04.19:288][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] I can move but...
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.30-09.04.19:289][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] I can move but...
+[2022.10.30-09.04.20:292][207]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.30-09.04.20:756][241]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.30-09.04.21:293][281]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.04.21:293][281]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.30-09.04.21:365][286]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.30-09.04.21:747][315]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.30-09.04.22:259][354]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.30-09.04.22:290][356]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 30
+[2022.10.30-09.04.22:647][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.04.22:770][392]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.30-09.04.23:287][432]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 35
+[2022.10.30-09.04.24:297][511]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 40
+[2022.10.30-09.04.24:297][511]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] PassageDuCode
+[2022.10.30-09.04.24:297][511]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] I can move but...
+[2022.10.30-09.04.24:576][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.04.25:291][591]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 45
+[2022.10.30-09.04.25:378][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.04.26:292][673]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.04.26:292][673]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 50
+[2022.10.30-09.04.27:324][754]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 55
+[2022.10.30-09.04.28:285][831]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 60
+[2022.10.30-09.04.29:288][914]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 65
+[2022.10.30-09.04.29:288][914]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] PassageDuCode
+[2022.10.30-09.04.29:288][914]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] I can move but...
+[2022.10.30-09.04.30:293][995]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 70
+[2022.10.30-09.04.31:293][ 76]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 75
+[2022.10.30-09.04.31:298][ 76]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.04.32:290][157]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 80
+[2022.10.30-09.04.33:294][239]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 85
+[2022.10.30-09.04.34:286][317]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 90
+[2022.10.30-09.04.34:298][318]LogBlueprintUserMessages: [Fourmiz_classe2_C_2] PassageDuCode
+[2022.10.30-09.04.34:298][318]LogBlueprintUserMessages: [Fourmiz_classe2_C_2] I can move but...
+[2022.10.30-09.04.35:293][400]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 95
+[2022.10.30-09.04.35:642][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.04.35:642][426]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.04.35:643][426]LogSlate: Window 'UEjam17 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.30-09.04.35:662][426]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.30-09.04.35:667][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.04.35:678][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.30-09.04.35:685][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.04.35:722][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.30-09.04.35:722][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2022.10.30-09.04.35:723][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2022.10.30-09.04.35:747][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.30-09.04.35:765][426]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.04.36:266][426]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.04.36:268][426]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.04.36:769][426]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.04.36:771][426]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.04.37:273][426]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.04.37:452][427]LogPlayLevel: Display: Destroying online subsystem :Context_213
+[2022.10.30-09.04.38:664][529]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-09.04.38:669][529]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-09.04.48:061][321]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.48:398][328]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.50:989][541]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.51:066][548]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.51:217][562]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.51:326][572]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.52:824][711]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.52:902][718]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.53:074][734]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.54:277][840]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.04.56:799][ 69]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.30-09.04.56:805][ 69]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.04.57:305][ 69]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.04.57:307][ 69]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.04.57:808][ 69]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.04.57:811][ 69]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.04.58:312][ 69]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.04.58:334][ 69]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.30-09.04.58:334][ 69]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.30-09.04.58:334][ 69]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.04.58:334][ 69]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.30-09.04.58:334][ 69]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.30-09.04.58:334][ 69]LogWorldPartition: Display: GetPartitionedActors took 303 us
+[2022.10.30-09.04.58:337][ 69]LogWorldPartition: Display: GenerateStreaming took 3 ms
+[2022.10.30-09.04.58:338][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.30-09.04.58:338][ 69]PIE: New page: PIE session: TopDownMap (30 oct. 2022 à 11:04:58)
+[2022.10.30-09.04.58:338][ 69]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.04.58:382][ 69]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.30-09.04.58:382][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043559s)
+[2022.10.30-09.04.58:382][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.043731s)
+[2022.10.30-09.04.58:382][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.30-09.04.58:383][ 69]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.30-09.04.58:383][ 69]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.30-09.04.58:383][ 69]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.30-09.04.58:389][ 69]LogWorldPartition: Display: WorldPartition initialize took 6 ms
+[2022.10.30-09.04.58:389][ 69]LogPlayLevel: PIE: World Init took: (0.007075s)
+[2022.10.30-09.04.58:419][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.30-09.04.58:423][ 69]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.30-09.04.58:423][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.30-09.04.58:423][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.30-09.04.58:424][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.30-09.04.58:424][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.30-09.04.58:424][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.30-09.04.58:426][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.30-09.04.58:446][ 69]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.30-09.04.58:447][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.30-09.04.58:447][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.30-09.04.58:447][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.30-09.04.58:447][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2022.10.30-09.04.58:447][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2022.10.30-09.04.58:449][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2022.10.30-09.04.58:449][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2022.10.30-09.04.58:449][ 69]LogInit: FAudioDevice initialized.
+[2022.10.30-09.04.58:449][ 69]LogAudio: Display: Audio Device (ID: 84) registered with world 'TopDownMap'.
+[2022.10.30-09.04.58:500][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.04.58:500][ 69]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.30-09.04.58:643][ 69]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.30-10.04.58
+[2022.10.30-09.04.58:700][ 69]LogWorld: Bringing up level for play took: 0.198789
+[2022.10.30-09.04.58:701][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_214
+[2022.10.30-09.04.58:702][ 69]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=2611.331 Y=12504.020 Z=1063.463
+[2022.10.30-09.04.58:702][ 69]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.30-09.04.58:704][ 69]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.30-09.04.58:704][ 69]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.30-09.04.58:706][ 69]PIE: Server logged in
+[2022.10.30-09.04.58:708][ 69]PIE: Play in editor total start time 0,384 seconds.
+[2022.10.30-09.04.58:709][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.58:709][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.58:709][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.58:709][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.10.30-09.04.59:385][108]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.30-09.05.00:387][189]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] I can move but...
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] I can move but...
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] I can move but...
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] I can move but...
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] I can move but...
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] I can move but...
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] PassageDuCode
+[2022.10.30-09.05.01:389][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2087045592] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2092804595] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2038113591] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2089892593] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] I can move but...
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.30-09.05.01:390][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024ADA711D04401_2091369594] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] I can move but...
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.30-09.05.01:391][271]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] I can move but...
+[2022.10.30-09.05.02:386][350]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.30-09.05.02:844][386]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.30-09.05.02:845][386]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.30-09.05.03:349][425]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.30-09.05.03:391][428]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.30-09.05.03:395][428]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.05.04:388][503]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 30
+[2022.10.30-09.05.04:865][540]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.30-09.05.04:970][548]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.30-09.05.04:993][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.05.05:139][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.05.05:387][580]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 35
+[2022.10.30-09.05.06:398][660]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 40
+[2022.10.30-09.05.06:398][660]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] PassageDuCode
+[2022.10.30-09.05.06:398][660]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] I can move but...
+[2022.10.30-09.05.07:391][740]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 45
+[2022.10.30-09.05.07:464][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.30-09.05.08:388][821]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 50
+[2022.10.30-09.05.08:393][821]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.05.09:393][903]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 55
+[2022.10.30-09.05.10:391][984]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 60
+[2022.10.30-09.05.11:392][ 65]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 65
+[2022.10.30-09.05.11:392][ 65]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] PassageDuCode
+[2022.10.30-09.05.11:392][ 65]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] I can move but...
+[2022.10.30-09.05.12:383][146]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 70
+[2022.10.30-09.05.13:399][231]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.30-09.05.13:399][231]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 75
+[2022.10.30-09.05.13:852][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.30-09.05.13:852][266]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.30-09.05.13:853][266]LogSlate: Window 'UEjam17 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.30-09.05.13:871][266]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.30-09.05.13:877][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.05.13:890][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.30-09.05.13:897][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.05.13:933][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2022.10.30-09.05.13:935][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2022.10.30-09.05.13:960][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.30-09.05.13:981][266]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.05.14:481][266]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.05.14:482][266]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.05.14:983][266]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.05.14:985][266]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.05.15:486][266]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.05.15:735][267]LogPlayLevel: Display: Destroying online subsystem :Context_214
+[2022.10.30-09.05.16:753][353]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-09.05.16:758][353]LogSlate: Window 'Message Log' being destroyed
+[2022.10.30-09.05.42:881][611]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.05.43:383][611]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.05.43:384][611]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.05.43:885][611]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.05.43:888][611]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.05.44:389][611]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.05.44:454][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.30-09.05.44:460][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/LG/KVM4KZTLQPOSGICPQC8TX4_Auto4
+[2022.10.30-09.05.44:460][611]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/KVM4KZTLQPOSGICPQC8TX4_Auto4F6705AA546EB333DFF910C8C6CB1003D.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/LG/KVM4KZTLQPOSGICPQC8TX4_Auto4.uasset'
+[2022.10.30-09.05.44:461][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.062
+[2022.10.30-09.05.44:461][611]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2022.10.30-09.09.07:153][377]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Jam/UI/Buildings.Buildings
+[2022.10.30-09.09.07:153][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.30-09.09.07:172][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.30-09.09.07:620][377]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.30-09.09.07:620][377]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.30-09.09.11:170][649]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.10.30-09.09.11:170][649]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2022.10.30-09.09.11:170][649]LogStatusBar: Using status bar: BlueprintEditorApp_97 to dock content browser
+[2022.10.30-09.09.15:204][968]LogSlate: Window 'Content Browser' being destroyed
+[2022.10.30-09.09.19:667][320]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.10.30-09.09.19:667][320]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2022.10.30-09.09.19:667][320]LogStatusBar: Using status bar: BlueprintEditorApp_97 to dock content browser
+[2022.10.30-09.09.28:306][994]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503960840391
+[2022.10.30-09.09.28:308][994]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.10.30-09.09.31:358][263]LogSlate: Window 'Content Browser 2' being destroyed
+[2022.10.30-09.10.10:999][915]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/batiment_tanks.png)
+[2022.10.30-09.10.11:016][915]LogTexture: Display: Building textures: /Game/Jam/UI/batiment_tanks.batiment_tanks (BGRA8, 609X609 X1X1) (Required Memory Estimate: 7.073994 MB), EncodeSpeed: Fast
+[2022.10.30-09.10.39:060][459]BlueprintLog: New page: Compile Buildings
+[2022.10.30-09.10.39:126][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.30-09.10.39:718][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/UI/Buildings" FILE="../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/UI/Buildings.uasset" SILENT=true
+[2022.10.30-09.10.39:725][484]LogSavePackage: Moving output files for package: /Game/Jam/UI/Buildings
+[2022.10.30-09.10.39:725][484]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Buildings7BCE39AA4096446EDEC3BFAA8F7512AE.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/UI/Buildings.uasset'
+[2022.10.30-09.10.39:743][484]AssetCheck: New page: Asset Save: Buildings
+[2022.10.30-09.10.39:743][484]LogContentValidation: Display: Validating WidgetBlueprint /Game/Jam/UI/Buildings.Buildings
+[2022.10.30-09.11.01:815][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/UI/Buildings" FILE="../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/UI/Buildings.uasset" SILENT=true
+[2022.10.30-09.11.01:820][992]LogSavePackage: Moving output files for package: /Game/Jam/UI/Buildings
+[2022.10.30-09.11.01:821][992]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/BuildingsA3CC311846BAAF10F127A3939C6CE4AF.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/UI/Buildings.uasset'
+[2022.10.30-09.11.01:839][992]AssetCheck: New page: Asset Save: Buildings
+[2022.10.30-09.11.01:839][992]LogContentValidation: Display: Validating WidgetBlueprint /Game/Jam/UI/Buildings.Buildings
+[2022.10.30-09.11.02:369][ 26]LogSlate: Window 'Buildings' being destroyed
+[2022.10.30-09.11.02:403][ 26]LogWorld: UWorld::CleanupWorld for World_163, bSessionEnded=true, bCleanupResources=true
+[2022.10.30-09.11.02:404][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.11.02:414][ 26]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.30-09.11.02:915][ 26]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.30-09.11.02:916][ 26]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.30-09.11.03:417][ 26]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.30-09.11.03:418][ 26]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.30-09.11.03:919][ 26]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.30-09.11.03:920][ 26]LogWorld: UWorld::CleanupWorld for World_162, bSessionEnded=true, bCleanupResources=true
+[2022.10.30-09.11.03:920][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.30-09.11.14:090][ 10]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.11.17:250][325]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.30-09.11.19:578][557]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
